@@ -5,34 +5,15 @@ import work2 from "../assets/images/work_images/ReelGoodFlicksAlt.png";
 import soundVaultImage from "../assets/images/work_images/soundVaultImage.png";
 import memoryCardGameImage from "../assets/images/work_images/memoryCardGameImage.png";
 import items from "../assets/images/work_images/items.png";
-import work6 from "../assets/images/work_images/6.jpg";
-import work7 from "../assets/images/work_images/7.jpg";
-import work8 from "../assets/images/work_images/8.jpg";
-import work9 from "../assets/images/work_images/9.jpg";
+
 // works small images
 import workSmall1 from "../assets/images/work_images/tuneTycoonalt.png";
 import workSmall2 from "../assets/images/work_images/ReelGoodFlicks.png";
 import soundVaultSmallImage from "../assets/images/work_images/soundVaultSmallImage.png";
 
 import cart from "../assets/images/work_images/cart.png";
-import workSmall6 from "../assets/images/work_images/small/6.jpg";
-import workSmall7 from "../assets/images/work_images/small/7.jpg";
-import workSmall8 from "../assets/images/work_images/small/8.jpg";
-import workSmall9 from "../assets/images/work_images/small/9.jpg";
-// blog post images
-import blog6 from "../assets/images/blog_images/6.jpg";
-import blog4 from "../assets/images/blog_images/4.jpg";
-import blog2 from "../assets/images/blog_images/2.jpg";
-import blog1 from "../assets/images/blog_images/1.jpg";
-import blog3 from "../assets/images/blog_images/3.jpg";
-import blog5 from "../assets/images/blog_images/5.jpg";
-// blog image small
-import blogSmall6 from "../assets/images/blog_images/small/6.jpg";
-import blogSmall4 from "../assets/images/blog_images/small/4.jpg";
-import blogSmall2 from "../assets/images/blog_images/small/2.jpg";
-import blogSmall1 from "../assets/images/blog_images/small/1.jpg";
-import blogSmall3 from "../assets/images/blog_images/small/3.jpg";
-import blogSmall5 from "../assets/images/blog_images/small/5.jpg";
+
+
 
 import img1 from "../assets/images/slider/brand-1.png";
 import img2 from "../assets/images/slider/brand-2.png";
