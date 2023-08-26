@@ -278,10 +278,7 @@ const Preview = () => {
           data-aos="fade"
           className="font-bold text-[22px] md:text-[26px] xl:text-[32px] 2xl:text-[42px] text-white pt-[40px] mx-auto max-w-4xl px-4 "
         >
-          Purchase Bostami & Build Your Dream Portfolio{" "}
-          <span className="text-[#F95054]">React JS</span> &{" "}
-          <span className="text-[#F95054]">Tailwind CSS</span> Portfolio
-          Template.
+  
         </p>
 
         <a
